@@ -1,4 +1,5 @@
 # Making overbooking flights predictable 🛩️
+Diego Duque
 
 ## How can over-booking can be improved on an airlines?
 
