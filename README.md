@@ -2,11 +2,11 @@
 
 ## How can over-booking can be improved on an airlines?
 
-An airlines in the USA is interested in knowing more about overbooking. Overbooking is a common and necessary practice on airlines, specially in low cost airlines. This industry run a very low profits, so overbooking is essential to keep a low prices and make the business more profitable. The airline will benefit in understanding more about overbooking and consequetly increase their profit.
+An airlines in the USA is interested in knowing more about overbooking. Overbooking is a common and necessary practice on airlines, specially in low cost airlines. This industry run a very low profits, so overbooking is essential to keep a low prices and make the business more profitable. The airline will benefit in understanding more about overbooking and consequently increase their profit.
 
 ### Question/Need:
 * What is the framing question of your analysis, or the purpose of the model/system you plan to build? 
-  The main question is how to predict the overbooking flights on an specific airline (try to avoid the whole industry data). To make it possible I will create a predictive model.
+  The main question is how to predict the overbooking flights on a specific airline (try to avoid the whole industry data). To make it possible I will create a predictive model.
   
 * Who benefits from exploring this question or building this model/system?
   The decision makers will benefit from having a model that will let them know how to overbook flights.
@@ -30,4 +30,4 @@ An airlines in the USA is interested in knowing more about overbooking. Overbook
   
 ### MVP Goal:
 * What would a [minimum viable product (MVP)](./mvp.md) look like for this project?
-  Be able to some arilines industry data and EDA will be mi MVP
+  Be able to some airlines industry data and EDA will be mi MVP
