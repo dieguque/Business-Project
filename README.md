@@ -12,8 +12,8 @@ The project goal is to provide data science tools to a brand new airline to over
 ## Data
 All he datasets are from the Department of Transportation. This data contains domestic and international flights from January 2019 to July 2021, daily passengers in all the US airport from January 2019 to March 2020, and the passenger boarded and denied boarding by the US largest carriers from 1990 to 2020.
 
-Passengers Boarded and Denied Boarding by the Largest U.S. Air Carriers: https://www.bts.gov/content/passengers-boarded-and-denied-boarding-largest-us-air-carriersathousands-passengers
-Commercial Aviation Departures: https://data.bts.gov/Aviation/Commercial-Aviation-Departures/bpqk-hyst
+[Passengers Boarded and Denied Boarding by the Largest U.S. Air Carriers:](https://www.bts.gov/content/passengers-boarded-and-denied-boarding-largest-us-air-carriersathousands-passengers)
+[Commercial Aviation Departures:](https://data.bts.gov/Aviation/Commercial-Aviation-Departures/bpqk-hyst)
 
 ## Methodology
 
