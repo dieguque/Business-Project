@@ -33,13 +33,13 @@ Commercial Aviation Departures: https://data.bts.gov/Aviation/Commercial-Aviatio
 
 
 ## Tools
-*Google Sheets*
+[Google Sheets](https://docs.google.com/spreadsheets/d/1x9_CqGwHeDd0mhpFVB7V0mFU6cn2hEgf_rSGuoO1-Q4/edit?usp=sharing)
 Pivot Table
 Vlookup
 Line Charts
 Sort and filter tool
 
-*Tableu*
+[Tableu](https://public.tableau.com/views/CommercialAviationDepartures/ExploratoryDataAnalysis1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 Filtering and plotting
 
 ## Summary
@@ -55,3 +55,5 @@ People misses more flights on Tuesdays and in general, you can build fancy model
 <img src=https://github.com/dieguque/Project3/blob/3db4bf7ffcd1f4e0cf947ec3cd209bf2636a498f/charts/Daily%20Domestic%20Flights.png>
 
 <img src=https://github.com/dieguque/Project3/blob/3db4bf7ffcd1f4e0cf947ec3cd209bf2636a498f/charts/Percent%20of%20People%20Denied%20Boarding%201990-2020.png>
+
+### More resultas available on the [Google Presentation](https://docs.google.com/presentation/d/1GQiyY4E52p0qHrbkRfC8lPzneE6mHTxxgFXKi8EDUgE/edit?usp=sharing)
