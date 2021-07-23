@@ -1,4 +1,4 @@
-# Overbooking in a new airline
+# Overbooking in a new airline 
 
 Diego Duque
 
@@ -50,7 +50,7 @@ People misses more flights on Tuesdays and in general, you can build fancy model
 ## Results
 <img src=https://github.com/dieguque/Project3/blob/3db4bf7ffcd1f4e0cf947ec3cd209bf2636a498f/charts/People%20Screened%20in%20Airports%202020-2021.png>
 
-<img src=https://github.com/dieguque/Project3/blob/3db4bf7ffcd1f4e0cf947ec3cd209bf2636a498f/charts/Bumped%20People_%20Flights%201990-2020.png
+<img src=https://github.com/dieguque/Project3/blob/3db4bf7ffcd1f4e0cf947ec3cd209bf2636a498f/charts/Bumped%20People_%20Flights%201990-2020.png>
 
 <img src=https://github.com/dieguque/Project3/blob/3db4bf7ffcd1f4e0cf947ec3cd209bf2636a498f/charts/Daily%20Domestic%20Flights.png>
 
