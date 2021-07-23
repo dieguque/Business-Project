@@ -16,30 +16,42 @@ Passengers Boarded and Denied Boarding by the Largest U.S. Air Carriers: https:/
 Commercial Aviation Departures: https://data.bts.gov/Aviation/Commercial-Aviation-Departures/bpqk-hyst
 
 ## Methodology
+
 *Data Collection*
+
 1. Gathered the data from the Department of Transportation by downloading by cvs files.
 
 *Data Manipulation*
+
 2. Used Vlookup function on Google Sheet to filter the data due there were some rows that were not needed.
 3. Used pivot table on GoogleSheat to get averages
 
 *Data Visualization*
+
 4. Calculated the weekday people screened in the US airports using Tableu.
 5. Other charts created using Google Sheets were created for the Exploratory Data Analysis.
 
 
 ## Tools
-Google Sheets
+*Google Sheets*
 Pivot Table
 Vlookup
 Line Charts
 Sort and filter tool
 
-Tableu
+*Tableu*
 Filtering and plotting
+
 ## Summary
 The results showed in an airplane with 128 seats and 90% people taking the flight you can overbook 14 seats. But the efficient frontier is to oversell only 6 tickets because there is always an overbook voucher.
 
 People misses more flights on Tuesdays and in general, you can build fancy models for overbooking that can lead to more revenue.
 
 ## Results
+<img src=https://github.com/dieguque/Project3/blob/3db4bf7ffcd1f4e0cf947ec3cd209bf2636a498f/charts/People%20Screened%20in%20Airports%202020-2021.png>
+
+<img src=https://github.com/dieguque/Project3/blob/3db4bf7ffcd1f4e0cf947ec3cd209bf2636a498f/charts/Bumped%20People_%20Flights%201990-2020.png
+
+<img src=https://github.com/dieguque/Project3/blob/3db4bf7ffcd1f4e0cf947ec3cd209bf2636a498f/charts/Daily%20Domestic%20Flights.png>
+
+<img src=https://github.com/dieguque/Project3/blob/3db4bf7ffcd1f4e0cf947ec3cd209bf2636a498f/charts/Percent%20of%20People%20Denied%20Boarding%201990-2020.png>
