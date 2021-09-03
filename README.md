@@ -1,4 +1,4 @@
-# Overbooking in a new airline 
+# Overselling Tickets in a New Airline
 
 Diego Duque
 
