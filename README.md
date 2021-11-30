@@ -48,7 +48,7 @@ The results show that in an airplane with 128 seats and an average of 90% people
 
 <img src=https://github.com/dieguque/Business-Project/blob/bec118b5d7a2fb8a72cccfcacd91323a655d0440/charts/Overselling%20Tickets%20in%20a%20New%20Airline.jpg>
 
-However, the efficient frontier is to oversell only 6 tickets because there is always an overbook voucher.
+Assuming the plane ticket is $512 and the voucher fee is $200 we get the efficient frontier is to oversell only 6 tickets instead of 14 tickets.
 
 <img src=https://github.com/dieguque/Business-Project/blob/df372875a062e79ff259d0eb33049dca6c767cd6/charts/15773976956951.jpeg>
 
