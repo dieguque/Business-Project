@@ -43,9 +43,12 @@ Sort and filter tool
 [Tableu](https://public.tableau.com/views/CommercialAviationDepartures/ExploratoryDataAnalysis1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 Filtering and plotting
 
-## Summary
+## Summary and Findings
 The results show that in an airplane with 128 seats and an average of 90% people make it to the flight, you can overbook 14 seats. But the efficient frontier is to oversell only 6 tickets because there is always an overbook voucher.
 
+<img src=https://github.com/dieguque/Business-Project/blob/df372875a062e79ff259d0eb33049dca6c767cd6/charts/15773976956951.jpeg>
+
+<img src=https://github.com/dieguque/Business-Project/blob/df372875a062e79ff259d0eb33049dca6c767cd6/charts/1577396350429.jpeg>
 
 People miss more flights on Tuesdays and in general, you can build advanced models for overbooking that can lead to more revenue.
 
