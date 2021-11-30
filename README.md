@@ -44,14 +44,6 @@ Sort and filter tool
 Filtering and plotting
 
 ## Summary and Findings
-People miss more flights on Tuesdays and in general, you can build advanced models for overbooking that can lead to more revenue.
-
-<img src=https://github.com/dieguque/Project3/blob/3db4bf7ffcd1f4e0cf947ec3cd209bf2636a498f/charts/People%20Screened%20in%20Airports%202020-2021.png>
-
-The percentage of people denied boarding a flight due to over-booking has been decreasing since the early 2000's.
-
-<img src=https://github.com/dieguque/Project3/blob/3db4bf7ffcd1f4e0cf947ec3cd209bf2636a498f/charts/Bumped%20People_%20Flights%201990-2020.png>
-
 The results show that in an airplane with 128 seats and an average of 90% people make it to the flight, you can overbook 14 seats. 
 
 <img src=https://github.com/dieguque/Business-Project/blob/bec118b5d7a2fb8a72cccfcacd91323a655d0440/charts/Overselling%20Tickets%20in%20a%20New%20Airline.jpg>
