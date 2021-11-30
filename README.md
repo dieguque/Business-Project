@@ -50,9 +50,9 @@ The results show that in an airplane with 128 seats and an average of 90% people
 
 Assuming the plane ticket is $512 (Miami - Cleveland in 2019) and the voucher fee is $200 (lowest amount in the industry) we get the efficient frontier is to oversell only 6 tickets instead of 14 tickets.
 
-<img src=https://github.com/dieguque/Business-Project/blob/df372875a062e79ff259d0eb33049dca6c767cd6/charts/15773976956951.jpeg>
+<img src=https://github.com/dieguque/Business-Project/blob/cf600fe0eb2d071d0a9cca4f5ac168b4e62da471/charts/1577397695695.jpeg>
 
-<img src=https://github.com/dieguque/Business-Project/blob/df372875a062e79ff259d0eb33049dca6c767cd6/charts/1577396350429.jpeg>
+<img src=https://github.com/dieguque/Business-Project/blob/cf600fe0eb2d071d0a9cca4f5ac168b4e62da471/charts/1577397695695-2.jpeg>
 
 
 ### More resultas available on the [Google Presentation](https://docs.google.com/presentation/d/1GQiyY4E52p0qHrbkRfC8lPzneE6mHTxxgFXKi8EDUgE/edit?usp=sharing)
