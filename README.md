@@ -44,7 +44,7 @@ Sort and filter tool
 Filtering and plotting
 
 ## Summary and Findings
-The data from the Department of Transportation show a decrease since the early 2000's on people bumped on airplanes. This could be due to different factors, but I have two hypothesis: airlines are overbooking less people or they have created better models.
+The data from the **Department of Transportation** show a decrease since the early 2000's on people bumped on airplanes. This could be due to different factors, but I have two hypothesis: airlines are overbooking less people or they have created better models.
 
 <img src=https://github.com/dieguque/Business-Project/blob/35f545f5c469849337c70a3fa8806fc4eee4db2a/charts/Bumped%20People_%20Flights%201990-2020.png>
 
